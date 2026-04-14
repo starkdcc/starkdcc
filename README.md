@@ -43,46 +43,57 @@ fueled_by:   Coffee & curiosity
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     PROJECTS — tokyonight theme works reliably
+     PROJECTS — HTML table, no broken API cards
 ═══════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/>&nbsp;&nbsp;Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/starkdcc/claude-code-source">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=starkdcc&repo=claude-code-source&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=c9d1d9" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/starkdcc/claude-code-source">claude-code-source</a></h3>
+      <p>Claude Code CLI — source snapshot for research.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/starkdcc/claude-code-source?style=flat-square&color=F59E0B&labelColor=0D1117&logo=star" />
+      <img src="https://img.shields.io/github/forks/starkdcc/claude-code-source?style=flat-square&color=8B5CF6&labelColor=0D1117&logo=git" />
     </td>
-    <td width="50%">
-      <a href="https://github.com/starkdcc/discord-py-snippets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=starkdcc&repo=discord-py-snippets&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=c9d1d9" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/starkdcc/crypto-ticker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=starkdcc&repo=crypto-ticker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=c9d1d9" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/starkdcc/weather-cli">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=starkdcc&repo=weather-cli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=c9d1d9" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/starkdcc/discord-py-snippets">discord-py-snippets</a></h3>
+      <p>Production-ready discord.py patterns. Copy-paste solutions.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/starkdcc/discord-py-snippets?style=flat-square&color=F59E0B&labelColor=0D1117&logo=star" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/starkdcc/awesome-crypto-bots">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=starkdcc&repo=awesome-crypto-bots&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=c9d1d9" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/starkdcc/crypto-ticker">crypto-ticker</a></h3>
+      <p>Live crypto prices in your terminal. Rich UI. No API key.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/CoinGecko-8DC647?style=flat-square&logo=coingecko&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/starkdcc/crypto-ticker?style=flat-square&color=F59E0B&labelColor=0D1117&logo=star" />
     </td>
-    <td width="50%">
-      <a href="https://github.com/starkdcc/dotfiles">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=starkdcc&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=c9d1d9" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🌦️ <a href="https://github.com/starkdcc/weather-cli">weather-cli</a></h3>
+      <p>Terminal weather in one command. No API key needed.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rich-FF6B6B?style=flat-square" />
+      <img src="https://img.shields.io/github/stars/starkdcc/weather-cli?style=flat-square&color=F59E0B&labelColor=0D1117&logo=star" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/starkdcc/awesome-crypto-bots">awesome-crypto-bots</a></h3>
+      <p>Curated list of open-source crypto bots and automation tools.</p>
+      <img src="https://img.shields.io/badge/Awesome-FC60A8?style=flat-square&logo=awesomelists&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/starkdcc/awesome-crypto-bots?style=flat-square&color=F59E0B&labelColor=0D1117&logo=star" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 <a href="https://github.com/starkdcc/dotfiles">dotfiles</a></h3>
+      <p>My bash, git, and editor configs. Symlinked with one script.</p>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/starkdcc/dotfiles?style=flat-square&color=F59E0B&labelColor=0D1117&logo=star" />
     </td>
   </tr>
 </table>
@@ -90,7 +101,7 @@ fueled_by:   Coffee & curiosity
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     STACK
+     STACK — 3D icons + skillicons
 ═══════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>&nbsp;&nbsp;Tech Arsenal
@@ -100,58 +111,46 @@ fueled_by:   Coffee & curiosity
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" />
+      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="48" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="50" />
+      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="48" />
       <br>Postgres
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" />
       <br>GitHub
     </td>
   </tr>
 </table>
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,bash,solidity,fastapi,flask,mongodb,postgres,redis,docker,linux,git,vscode,discord&perline=8" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,bash,solidity,fastapi,flask,mongodb,postgres,redis,docker,linux,git,vscode,discord,nodejs,react,nextjs,vercel,cloudflare&perline=10" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     ANIMATED TERMINAL
-═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/KyBX9ektgXWve/giphy.gif" width="28"/>&nbsp;&nbsp;Quick Intro
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=80&pause=2000&color=10B981&center=false&vCenter=true&width=800&height=280&lines=%24+whoami;starkdcc;%24+cat+~%2Fbio.txt;%3E+Backend+dev+focused+on+crypto+automation;%3E+Build+Discord+bots+that+actually+work+in+prod;%3E+Multi-chain+wallet+infra+%26+escrow+systems;%3E+Always+shipping.+Rarely+stopping.;%24+ls+~%2Fprojects;auto-mm-bot+++crypto-ticker+++weather-cli;discord-py-snippets+++awesome-crypto-bots;%24+echo+%22Let%27s+build+something+cool.%22;Let%27s+build+something+cool." />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     VIBE CODER DETECTOR (sarcastic roast section)
+     VIBE CODER DETECTOR (sarcastic)
 ═══════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/l2JJyLbhqCF4va86c/giphy.gif" width="28"/>&nbsp;&nbsp;Vibe Coder Detector™
@@ -204,20 +203,32 @@ fueled_by:   Coffee & curiosity
 
 <kbd>&nbsp;Score 7-10&nbsp;</kbd> &nbsp; **Certified vibe coder.** Your codebase is held together by prayers.
 
-<kbd>&nbsp;Score 11+&nbsp;</kbd> &nbsp; **Straight up npm package collector.** Your `node_modules/` is a black hole.
-
-</div>
+<kbd>&nbsp;Score 11+&nbsp;</kbd> &nbsp; **npm package collector.** Your `node_modules/` is a black hole.
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=EC4899&center=true&vCenter=true&width=900&lines=If+you+can't+read+your+own+code+from+3+months+ago%2C+you+didn't+write+code.+You+wrote+a+wish.;Your+%22prototype%22+has+been+in+production+for+2+years.+Admit+it.;README.md+that's+just+%23+Project+%E2%80%94+we+see+you.;Calling+AI-generated+code+%22your%22+code+is+like+calling+a+microwave+dinner+%22homemade%22.;Writing+tests+is+boring+until+production+is+down+at+3+AM." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=EC4899&center=true&vCenter=true&width=900&lines=If+you+can't+read+your+own+code+from+3+months+ago%2C+you+didn't+write+code.+You+wrote+a+wish.;Your+%22prototype%22+has+been+in+production+for+2+years.+Admit+it.;README.md+that's+just+%23+Project+%E2%80%94+we+see+you.;Calling+AI-generated+code+%22your%22+code+is+like+calling+a+microwave+dinner+%22homemade%22.;Writing+tests+is+boring+until+production+is+down+at+3+AM." />
+
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     STATS GRID (6 CARDS) — all using stable themes
+     ANIMATED TERMINAL INTRO
+═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/KyBX9ektgXWve/giphy.gif" width="28"/>&nbsp;&nbsp;Quick Intro
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=80&pause=2000&color=10B981&center=false&vCenter=true&width=800&height=280&lines=%24+whoami;starkdcc;%24+cat+~%2Fbio.txt;%3E+Backend+dev+focused+on+crypto+automation;%3E+Build+Discord+bots+that+actually+work+in+prod;%3E+Multi-chain+wallet+infra+%26+escrow+systems;%3E+Always+shipping.+Rarely+stopping.;%24+ls+~%2Fprojects;auto-mm-bot+++crypto-ticker+++weather-cli;discord-py-snippets+++awesome-crypto-bots;%24+echo+%22Let%27s+build+something+cool.%22;Let%27s+build+something+cool." />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     STATS — only WORKING services (no github-readme-stats)
 ═══════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/>&nbsp;&nbsp;Stats
@@ -225,22 +236,22 @@ fueled_by:   Coffee & curiosity
 <div align="center">
 
 <a href="https://github.com/starkdcc">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=starkdcc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=c9d1d9" />
   <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=starkdcc&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=F59E0B&fire=EC4899&currStreakLabel=8B5CF6" />
-</a>
-
-<br/>
-
-<a href="https://github.com/starkdcc">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkdcc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" />
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=starkdcc&theme=tokyonight" />
 </a>
 
 <br/>
 
 <a href="https://github.com/starkdcc">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starkdcc&theme=tokyonight&utcOffset=0" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starkdcc&theme=tokyonight" />
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=starkdcc&theme=tokyonight" />
+</a>
+
+<br/>
+
+<a href="https://github.com/starkdcc">
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starkdcc&theme=tokyonight&utcOffset=0" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starkdcc&theme=tokyonight" />
 </a>
 
 </div>
@@ -248,7 +259,7 @@ fueled_by:   Coffee & curiosity
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     CONTRIBUTION GRAPH (animated area chart)
+     ACTIVITY GRAPH
 ═══════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/>&nbsp;&nbsp;Activity
@@ -323,6 +334,6 @@ fueled_by:   Coffee & curiosity
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer&text=Thanks%20for%20scrolling&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" />
 
-<sub><b>Open to collaborations</b> · Cards load from external APIs · Hard refresh if anything looks broken</sub>
+<sub><b>Open to collaborations</b> · Cards use stable APIs · Hard refresh if anything looks broken</sub>
 
 </div>
